@@ -395,6 +395,7 @@ public function index() {
           "JM" => '+1-876',//array("JAMAICA", "JM", "JAM", "388"),
           "JP" => '+81',//array("JAPAN", "JP", "JPN", "392"),
           "JO" => '+962',//array("JORDAN", "JO", "JOR", "400"),
+	  "PS" => '+275',//array("JORDAN", "JO", "JOR", "400"),
           "KZ" => '+7',//array("KAZAKHSTAN", "KZ", "KAZ", "398"),
           "KE" => '+254',//array("KENYA", "KE", "KEN", "404"),
           "KI" => '+686',//array("KIRIBATI", "KI", "KIR", "296"),
